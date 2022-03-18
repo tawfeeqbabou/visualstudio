@@ -1,21 +1,20 @@
 # visualstudio
+[Gueliz Technical Engineering School](#gueliz-technical-engineering-school)
 
-[Some Random Title](#some-random-title)
+[Moroccan Tech School angle 2](#Moroccan-Tech-School-angle-2)
 
-[Other Random Title](#some-other-random-title)
+[Moroccan Tech School angle 3](#Moroccan-Tech-School-angle-3)
 
-[Some Other Random Title](#some-other-random-title)
+**By far one of the most impressive balance of new and old in any architectural design I've seen!**
+>There is true beauty in simplicity
+>
+>
+>
+# Gueliz Technical Engineering School
+![Moroccan Tech School Gueliz](/images/uni1.jpeg)
 
-# Some Random Title
-![uni1.jpeg](uni1 picture)
+## Moroccan Tech School angle 2
+![Moroccan Tech School angle 2](/images/uni2.jpeg)
 
-![uni2.jpeg](Moroccan Tech School)
-
-
-
-
-
-## Other Random Title
-
-
-### Some Other Random Title 
+## Moroccan Tech School angle 3
+![Moroccan Tech School angle 3](/images/uni3.jpeg)
